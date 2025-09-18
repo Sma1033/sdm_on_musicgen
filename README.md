@@ -1,0 +1,2 @@
+# sdm_on_musicgen
+This is the repository for research "DETECTING TRAINING DATA IN MUSIC GENERATION MODELS WITH SAMPLE DISTANCE MATRIX"
