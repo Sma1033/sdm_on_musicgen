@@ -1,0 +1,134 @@
+To avoid potential copyright infringement, we are unable to share audio files in SDM dataset directly here. However, for readers interested in details of the experiments, we can provide the processed MusicGen logit outputs. Please email iwei022@aucklanduni.ac.nz for inquiries.
+
+
+##########################################################################################
+#    Songs in Meta Music Initiative Sound Collection (https://www.facebook.com/sound)    #
+##########################################################################################
+
+Genra: Electronic
+	01. Blue Days Remix (Chela Rivas, Ella Joy Meir)
+	02. Carousel
+	03. Couch
+	04. I Like It
+	05. Mouse Trap
+	06. Much Too Much
+	07. Overcome
+	08. Ready To Play (Instrumental)
+	09. Scatterbrain
+	10. The City Is Alive
+
+Genra: Pop
+	01. Catch Vibes 10s
+	02. Feels Good (feat. Alan Avry)
+	03. Happy With You
+	04. Head Full of Flowers (Instrumental)
+	05. I Don't Know Who I Am
+	06. Lifeline (feat. Bobby Brinker)
+	07. Motive
+	08. Sunset (Instrumental)
+	09. Wake Up
+	10. You (Instrumental)
+	
+Genra: Hip-Hop
+	01. A Song Idea (Instrumental)
+	02. Armaani
+	03. Defiant (feat. iZZ)
+	04. Epiphanies With Tiffani
+	05. Goldmine (feat. Barbasauce)
+	06. Ice Cream Sunday (Instrumental)
+	07. Inspire (feat. Plum Soul)
+	08. Quagmire
+	09. Questions (Instrumental)
+	10. Yesterday
+	
+Genra: Rock
+	01. All That Is Left
+	02. Belle Of The Ball
+	03. Endless
+	04. Industrial Endeavors
+	05. No Question
+	06. Saddle Up
+	07. Sum Daze
+	08. Two Shot
+	09. White Light
+	10. You Brought Too Much
+	
+Genra: RnB & Soul
+	01. A Hot Day
+	02. Afro Deeziac
+	03. Don't Remember the 70's
+	04. Down On Love
+	05. Metaverse (Instrumental)
+	06. Rainbow Motherfunk (Instrumental)
+	07. She Be Free (feat. Grant Parker)
+	08. Step Ahead
+	09. Sticky
+	10. Windy City (feat. Spacewalker)
+	
+	
+	
+	
+######################################################
+#    Rate Your Music (https://rateyourmusic.com/)    #
+######################################################
+
+Genra: Electronic
+	01. RICHAXXHAITIAN
+	02. Supernova
+	03. Good Luck, Babe!
+	04. Girl, so confusing
+	05. Running
+	06. Psychic Attack
+	07. Image
+	08. Cheerleader
+	09. Schneider’s Paradox
+	10. ZERO FANTASY
+
+Genra: Pop
+	01. Ang Huling Chacha
+	02. Happy For You
+	03. Technicolor
+	04. Lonely Millionaire
+	05. My Way
+	06. To The Moon
+	07. Revenge
+	08. Save Your Breath
+	09. Someday
+	10. За горизонтом
+	
+Genra: Hip-Hop
+	01. 530 (Back to Ye)
+	02. Dark Ages
+	03. I Did
+	04. Dialogue of Living Men, Pt. 2
+	05. Pricey
+	06. Hard 2 Da Core
+	07. Push Pressure Points (The Expert Mix)
+	08. Lobster
+	09. Trifecta
+	10. Yeah Yeah
+	
+Genra: Rock
+	01. I’m So Free
+	02. À ma décharge
+	03. Glory, Glory (I Am Free)
+	04. Guitar Hero
+	05. Sunshine Getaway
+	06. I’m Waiting for the Man
+	07. I Can’t Stand It
+	08. AGHANIB ɸ+½θ
+	09. Reality
+	10. Zud Rang Ma
+	
+Genra: RnB & Soul
+	01. Smoke
+	02. Goddamn Biscuit
+	03. Hatred
+	04. His Love Ain’t Real
+	05. It’s Such a Shame
+	06. F*ck My Life Up Again
+	07. Missing You
+	08. Two of Us (Friendslovers Pt. 2)
+	09. Walk Away
+	10. Where Am I
+

@@ -41,7 +41,7 @@ MIA_on_musicgen/
 │
 └── data/
     ├── metadata/             # Song metadata (no raw audio)
-    │   ├── sdm_dataset.csv
+    │   ├── sdm_dataset.txt
     │   └── supplementary_dataset.csv
     ├── processed/            # Processed features for reproducibility
     │   ├── logits/*.npy
