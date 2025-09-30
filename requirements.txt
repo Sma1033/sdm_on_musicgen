@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+torch
+torchaudio
+torchviz
+audiocraft
+encodec
+demucs
+librosa
+pydub
+soundfile
+transformers
+IPython
