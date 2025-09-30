@@ -18,7 +18,7 @@ We evaluate four baseline MIA methods (perplexity, Min-K% probability, perturbat
 Our results show:
 - Existing MIA methods from text transfer poorly to music generation.
 - SDM consistently outperforms baselines across multiple genres.
-- We release metadata, processed features, and code to enable reproducibility.
+- We release metadata, and code to enable reproducibility.
 
 ---
 
