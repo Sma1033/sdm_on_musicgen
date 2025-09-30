@@ -36,7 +36,7 @@ MIA_on_musicgen/
 │   ├── get_tokens.py         # Extract EnCodec tokens
 │   ├── get_logits.py         # Extract logits from MusicGen
 │   ├── process_results.py    # Convert logits to features for MIA
-│   ├── mia_methods.py        # Baseline + SDM MIA implementations
+│   ├── mia_methods.py        # SDM MIA implementations
 │   └── evaluate_auc.py       # AUC/ROC evaluation
 │
 └── data/
