@@ -37,21 +37,18 @@ MIA_on_musicgen/
 │   ├── mia_methods.py        # Baseline + SDM MIA implementations
 │   └── evaluate_auc.py       # AUC/ROC evaluation
 │
-├── data/
-│   ├── metadata/             # Song metadata (no raw audio)
-│   │   ├── sdm_dataset.csv
-│   │   └── supplementary_dataset.csv
-│   ├── processed/            # Processed features for reproducibility
-│   │   ├── logits/*.npy
-│   │   ├── tokens/*.npy
-│   │   ├── distances/*.npy
-│   │   └── auc_results.csv
-│   └── figures/              # Plots used in the paper
-│
-└── notebooks/                # Jupyter notebooks for experiments
-    ├── core/                 # Main pipeline (used in the paper)
-    ├── analysis/             # Visualization, AUC calculation
-    └── extra/                # Playground and test notebooks
+└── data/
+    ├── metadata/             # Song metadata (no raw audio)
+    │   ├── sdm_dataset.csv
+    │   └── supplementary_dataset.csv
+    ├── processed/            # Processed features for reproducibility
+    │   ├── logits/*.npy
+    │   ├── tokens/*.npy
+    │   ├── distances/*.npy
+    │   └── auc_results.csv
+    └── figures/              # Plots used in the paper
+ 
+
 ```
 
 ---
@@ -125,20 +122,7 @@ If you are interested in re-running experiments with the same audio, please obta
 | **Sample Distance Matrix (SDM)** | **0.666** |
 | **SDM + Supplementary Dataset** | **0.707** |
 
----
 
-## 🧾 Citation
-
-If you use this code or dataset, please cite:
-
-```
-@inproceedings{wei2026sdm,
-  author    = {I-Chieh Wei and Michael Witbrock and Fabio Morreale},
-  title     = {Detecting Training Data in Music Generation Models with Sample Distance Matrix},
-  booktitle = {ICASSP},
-  year      = {2026}
-}
-```
 
 ---
 
